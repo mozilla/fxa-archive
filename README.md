@@ -1,5 +1,7 @@
 # Welcome to Firefox Accounts
 
+## This repository is a historic archive. See [mozilla/fxa](https://github.com/mozilla/fxa) for up to date information
+
 Firefox Accounts is the authentication and authorization system for Mozilla
 Services, providing access to services such as Firefox Sync, Pocket and
 https://addons.mozilla.org.
